@@ -135,7 +135,7 @@ const Landing = () => {
           </button>
         </div>
       </form>
-      <p className="title">
+      <p className="title container">
         <small>
           Designed and developed by
           <i>
